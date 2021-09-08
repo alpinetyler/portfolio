@@ -1,3 +1,3 @@
 
-footer.textContent = "© 2019 By Tyler P Thompsons";
+footer.textContent = "© 2021 By Tyler P Thompsons";
 span.headingName.textConent = "Tyler Thompson";
